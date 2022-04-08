@@ -1,5 +1,9 @@
 
+Chương trình được cải tiến từ `Hibernet-master`
 
+Giao diện hoàn toàn bằng tiếng việt 
+
+Sử dụng ngôn ngữ `python` 
 ### Yêu cầu 
 ** Hệ điều hành Linux **
 > `pip3 cài đặt pysocks bs4 scapy-python3
